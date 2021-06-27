@@ -16,3 +16,5 @@
 
 - *VS Code downloaded from web site*  
 `C:\Users\yidanhuang\AppData\Local\Programs\Microsoft VS Code\bin`
+
+[** Reference **](https://stackoverflow.com/questions/56656777/userwarning-matplotlib-is-currently-using-agg-which-is-a-non-gui-backend-so)
